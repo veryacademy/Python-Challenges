@@ -8,10 +8,10 @@ Welcome to Python challenges. Practice your Python Skills daily with Python chal
 ---
 
 ## **Code Challenge:**
-Write a function named capital_indexes. The function takes a single parameter, which is a string. Your function should return a list of all the indexes in the string that have capital letters.
+Write a function named capitals. The function should takes a single parameter which you can name word. Your function should return a list of all the capital letters letters in the string.
 
-#### **Constraints:**
-- Should a given string have an odd number of letters, round down to the nearest number.
+#### **Notes/Constraints:**
+- None
 
 ----
 
