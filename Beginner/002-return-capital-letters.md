@@ -21,6 +21,7 @@ Write a function named capitals. The function should takes a single parameter wh
 
 ```
 # ex1.0.1 
+# See: https://docs.python.org/3/library/unittest.html to help refactor the tests further
 
 import unittest
 
