@@ -52,4 +52,5 @@ if __name__ == "__main__":
 ---
 ### **Further reading**
 Python, R., 2021. How to Use Generators and yield in Python – Real Python. [online] Realpython.com. Available at: <https://realpython.com/introduction-to-python-generators/> [Accessed 7 August 2021].
+
 Docs.python.org. 2021. unittest — Unit testing framework — Python 3.9.6 documentation. [online] Available at: <https://docs.python.org/3/library/unittest.html#> [Accessed 9 August 2021].
