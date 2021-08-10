@@ -19,8 +19,22 @@ Write a function named capitals. The function should takes a single parameter wh
 
 ### Code Examples
 
+```python
+# ex1.0.1 Using a generator
+
+def capitals(word):
+
+    x = []
+
+    test = [char for char in word if char.isupper()]
+    yield test
+
+
+print(next(capitals("AbCdE")))
 ```
-# ex1.0.1 
+
+```python
+# ex1.0.2 
 
 import unittest
 
