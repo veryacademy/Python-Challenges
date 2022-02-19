@@ -2,6 +2,8 @@
 
 Welcome to Python challenges. Practice your Python Skills daily with Python challenges. In this Python code challenge series we hope to compliment the existing Python courses on this channel. Code challenges are for people looking to sharpen their Python skills first at a beginner's level with the ambition to then move into more advanced challenges as we progress.
 
+---
+
 ## Donations
 Very Academy is all about teaching you simple actionable code. We rely on your contributes to keep doing what we do. If you have found value in the content, please consider supporting us.
 
@@ -11,6 +13,8 @@ Very Academy is all about teaching you simple actionable code. We rely on your c
 target="_blank">
 Contribute via PayPal
 </a>
+
+---
 
 ## Tutorial - Hosted on Youtube
 **Video Tutorial:** https://youtu.be/esHMjvP2-hs
