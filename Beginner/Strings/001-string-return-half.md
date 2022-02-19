@@ -14,7 +14,7 @@ Very Academy is all about teaching you simple actionable code. We rely on your c
 
 <a href="https://www.paypal.com/donate?hosted_button_id=W55GVT4UPXPYE" 
 target="_blank">
-Contribute via PayPal
+Donate via PayPal
 </a>
 
 ---
