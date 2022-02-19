@@ -1,4 +1,4 @@
-![veryacademy](/logo.svg)
+![veryacademy](/logo.png)
 
 <div align="center">
   <h1>Python Code Challenges</h1>
