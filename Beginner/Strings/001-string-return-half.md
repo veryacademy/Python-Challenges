@@ -2,6 +2,9 @@
 
 Welcome to Python challenges. Practice your Python Skills daily with Python challenges. In this Python code challenge series we hope to compliment the existing Python courses on this channel. Code challenges are for people looking to sharpen their Python skills first at a beginner's level with the ambition to then move into more advanced challenges as we progress.
 
+#### **Category:** Strings
+#### **Difficulty:** Warm-up/Beginner
+#### **Tags/Keywords:** slice, true division, floor division, integer division
 ---
 
 ## Donations
@@ -19,10 +22,6 @@ Contribute via PayPal
 ## Tutorial - Hosted on Youtube
 **Video Tutorial:** https://youtu.be/esHMjvP2-hs
 
----
-#### **Category:** Strings
-#### **Difficulty:** Warm-up/Beginner
-#### **Tags/Keywords:** slice, true division, floor division, integer division
 ---
 
 ## **Code Challenge:**
