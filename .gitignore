@@ -1,7 +1,1 @@
-/graphics
-/pp
-/venv
-.vscode
-example.py
-ex.py
-template.md
+.DS_Store
