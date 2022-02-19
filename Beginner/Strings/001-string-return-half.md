@@ -12,6 +12,7 @@ target="_blank">
 Contribute via PayPal
 </a>
 
+## Donations
 **Video Tutorial:** https://youtu.be/esHMjvP2-hs
 
 ---
