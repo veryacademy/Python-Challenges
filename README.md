@@ -36,7 +36,7 @@ title="PayPal – The safer, easier way to pay online!" border="0" />
 ## Donations
 Very Academy is all about teaching you simple actionable code. We rely on your contributes to keep doing what we do. If you have found value in the content, please consider supporting us.
 
-<a href="https://www.patreon.com/bePatron?u=69834971" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+<a href="https://www.patreon.com/bePatron?u=69834971" data-patreon-widget-type="become-patron-button">Become a Patron!</a>
 
 ## Contributing
 This project welcomes contributions and suggestions. At present, we are not accepting any code contributions. Please visit our YouTube channel to make tutorial suggestions.
