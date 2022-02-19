@@ -42,7 +42,7 @@ Very Academy is all about teaching you simple actionable code. We rely on your c
 This project welcomes contributions and suggestions. At present, we are not accepting any code contributions. Please visit our YouTube channel to make tutorial suggestions.
 
 ## Instructor
-Zander, the founder of Very Academy has over 20 years of development and educational lecturing experience. He is now focused on developing free technical courses and resources on a range of subjects.
+Zander, the founder of Very Academy has over 20 years of development and educational lecturing experience. He is now focused on developing free technical tutorials and teaching resources on a range of subjects.
 
 ## License
 [MIT License](LICENSE)
