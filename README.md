@@ -38,12 +38,6 @@ Very Academy is all about teaching you simple actionable code. We rely on your c
 
 <a href="https://www.patreon.com/bePatron?u=69834971" data-patreon-widget-type="become-patron-button">Become a Patron!</a>
 
-## Contributing
-This project welcomes contributions and suggestions. At present, we are not accepting any code contributions. Please visit our YouTube channel to make tutorial suggestions.
-
-## Instructor
-Alexander AKA Zander, the founder of Very Academy has over 20 years of development and educational lecturing experience. He is now focused on developing free technical tutorials and teaching resources on a range of subjects.
-
 ## License
 [MIT License](LICENSE)
 
