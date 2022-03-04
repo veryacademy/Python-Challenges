@@ -38,6 +38,8 @@ Very Academy is all about teaching you simple actionable code. We rely on your c
 
 <a href="https://www.patreon.com/bePatron?u=69834971" data-patreon-widget-type="become-patron-button">Become a Patron!</a>
 
+<a href="https://www.paypal.com/donate?hosted_button_id=W55GVT4UPXPYE">Donate via Paypal!</a>
+
 ## License
 [MIT License](LICENSE)
 
