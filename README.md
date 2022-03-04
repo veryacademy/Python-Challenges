@@ -50,9 +50,11 @@ Alexander AKA Zander, the founder of Very Academy has over 20 years of developme
 ## Code Challenges Content
 
 ### Beginner Level
+
+<a href="https://youtube.com/playlist?list=PLOLrQ9Pn6cayQKCYhGH4FLTgIWTUI9yx7">[See Playlist]</a>
 ---
 
-Challenge YouTube Playlist: https://youtube.com/playlist?list=PLOLrQ9Pn6cayQKCYhGH4FLTgIWTUI9yx7
+Challenge YouTube Playlist: 
 
 #### Working with File and Folders
 1. File Sizes
