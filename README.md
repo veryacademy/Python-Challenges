@@ -46,3 +46,16 @@ Alexander AKA Zander, the founder of Very Academy has over 20 years of developme
 
 ## License
 [MIT License](LICENSE)
+
+## Code Challenges Content
+
+### Beginner Level
+---
+#### Working with File and Folders
+1. File Sizes
+#### Working with Strings
+1. Return half a string
+2. Return Capital letters
+3. Repeating string characters
+4. Masking - Credit card numbers
+
