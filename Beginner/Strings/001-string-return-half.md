@@ -1,6 +1,6 @@
 # **001-Return half a string**
 
-Welcome to Python challenges. Practice your Python Skills daily with Python challenges. In this Python code challenge series we hope to compliment the existing Python courses on this channel. Code challenges are for people looking to sharpen their Python skills first at a beginner's level with the ambition to then move into more advanced challenges as we progress.
+Welcome to Python challenges. Practice your Python Skills daily with Python challenges.Code challenges are for people looking to sharpen their Python skills first at a beginner's level with the ambition to then move into more advanced challenges as we progress.
 
 #### **Category:** Strings
 #### **Difficulty:** Warm-up/Beginner
@@ -8,7 +8,7 @@ Welcome to Python challenges. Practice your Python Skills daily with Python chal
 ---
 
 ## Donations
-Very Academy is all about teaching you simple actionable code. We rely on your contributes to keep doing what we do. If you have found value in the content, please consider supporting us.
+We rely on your contributes to keep doing what we do. If you have found value in the content, please consider supporting us.
 
 <a href="https://www.patreon.com/bePatron?u=69834971" data-patreon-widget-type="become-patron-button">Become a Patron!</a>
 
