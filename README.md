@@ -55,10 +55,10 @@ Alexander AKA Zander, the founder of Very Academy has over 20 years of developme
 <a href="https://youtube.com/playlist?list=PLOLrQ9Pn6cayQKCYhGH4FLTgIWTUI9yx7">[See Playlist]</a>
 
 #### Working with File and Folders
-1. File Sizes
+1. File Sizes <a href="https://youtu.be/2Vo4MQOlauE">[watch]</a>
 #### Working with Strings
-1. Return half a string
-2. Return Capital letters
-3. Repeating string characters
-4. Masking - Credit card numbers
+1. Return half a string <a href="https://youtu.be/esHMjvP2-hs">[watch]</a>
+2. Return Capital letters <a href="https://youtu.be/ZnrjWPjF6Xs">[watch]</a>
+3. Repeating string characters <a href="https://youtu.be/pzFixzQq-To">[watch]</a>
+4. Masking - Credit card numbers <a href="https://youtu.be/H2uYYigqCnE">[watch]</a>
 
