@@ -57,4 +57,7 @@ Very Academy is all about teaching you simple actionable code. We rely on your c
 2. Return Capital letters <a href="https://youtu.be/ZnrjWPjF6Xs">[watch]</a>
 3. Repeating string characters <a href="https://youtu.be/pzFixzQq-To">[watch]</a>
 4. Masking - Credit card numbers <a href="https://youtu.be/H2uYYigqCnE">[watch]</a>
+#### Data Structures
+1. Flatten a nested list <a href="">[watch]</a>
+2. Word Anagrams <a href="">[watch]</a>
 
