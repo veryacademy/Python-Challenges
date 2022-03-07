@@ -101,3 +101,22 @@ print(sum(nla, []))
 - https://stackoverflow.com/questions/952914/how-to-make-a-flat-list-out-of-a-list-of-lists
 - https://docs.python.org/3/library/itertools.html#itertools.chain.from_iterable
 - https://mathieularose.com/how-not-to-flatten-a-list-of-lists-in-python
+```
+
+```python
+# 5.0.0
+"""
+Solution to resolve nested list with recursion.
+"""
+nln = [[1,2,[3,4]],["a","b","c"],[5,[6],7,8]]
+
+def fun_flatlist(nl):
+    flatlist=[]
+    for sublist in nl:
+        if isinstance(sublist, list):
+            flatlist.extend(fun_flatlist(sublist))
+        else:
+            flatlist.append(sublist)
+    return flatlist
+print(fun_flatlist(nln))
+```
