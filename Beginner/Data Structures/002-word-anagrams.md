@@ -56,6 +56,14 @@ def check_for_anagram(word1, word2):
 
 print(check_for_anagram("test","tset"))
 
+# or
+
+def check_for_anagram(word1, word2):
+
+    return sorted(word1) == sorted(word2)
+
+print(check_for_anagram("python","typhon"))
+
 ```
 
 ```python
