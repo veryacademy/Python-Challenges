@@ -72,7 +72,7 @@ import itertools
 nla = [[1,2,3,4],["a","b","c"],[5,6,7,8]]
 nlb = [[1,2,[3,[4]]],["a","b","c"],[5,6,7,8]]
 
-print(list(itertools.chain(*nl))))
+print(list(itertools.chain(*nl)))
 print(list(itertools.chain.from_iterable(nl)))
 ```
 
