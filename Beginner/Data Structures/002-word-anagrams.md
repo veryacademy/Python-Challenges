@@ -24,10 +24,10 @@ Donate via PayPal
 ---
 
 ## **Code Challenge:**
-An anagram is a word or phrase made by using the letters of another word or phrase in a different order. For example, Python and Typhon both use the same letters to form two different words. Create a function that checks if a given word is an anagram of another word. Build a funciton that takes 2 parameters, the inital word and the word you want to check is a anagram of the first word. Output True if an anagram was found and False if not.
+An anagram is a word or phrase made by using the letters of another word or phrase in a different order. For example, Python and Typhon both use the same letters to form two different words. Create a function that checks if a given word is an anagram of another word. Build a function that takes 2 parameters, the initial word and the word you want to check is an anagram of the first word. Output True if an anagram was found and False if not.
 
-### Extention challange
-Create a small applicaton that asks the users to type in a word and check the users word against a list of existing words.
+### Extension challenge
+Create a small application that asks the users to type in a word and check the users word against a list of existing words.
 
 ----
 
